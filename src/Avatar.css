@@ -1,0 +1,10 @@
+.avaratstyle{
+    background-color: blueviolet;
+    margin:4px;
+    display: inline-block;
+    padding: 4px;
+}
+.avaratstyle img{
+    width: 200px;
+    height: 200px;
+}
